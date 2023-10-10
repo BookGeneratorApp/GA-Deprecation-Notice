@@ -1,13 +1,22 @@
 # GenerateArea is deprecated!
-GenerateArea is deprecated and no longer supported. Please note that GeneratePanel, the successor to GenerateArea, has not been officially released yet and is currently in development. We apologize for any confusion.
 
-GenerateArea and GeneratePanel are both client areas designed to assist with specific functions:
+GenerateArea is deprecated and no longer supported. This means that it is no longer receiving updates, bug fixes, or official support. We understand that this may raise some questions, especially for users who have relied on GenerateArea in the past. Here's what you need to know:
 
-- **GenerateArea** was the original client area, but it is no longer actively developed or maintained. It is recommended to consider using GeneratePanel once it becomes available for an improved experience and ongoing support.
+## What's Happening with GenerateArea?
 
-- **GeneratePanel** is the upcoming successor to GenerateArea and is currently in development by the developers at <a href="https://github.com/GenerateApps/GeneratePanel">here</a>. While it may not be available at this time, it is expected to offer enhanced features and improved functionality when it is released.
+GenerateArea, which has been a client area solution for specific functions, has reached the end of its active development phase. This decision was made with the aim of moving towards a more advanced and sustainable solution.
 
-We appreciate your patience, and we encourage you to keep an eye on the official <a href="https://github.com/GenerateApps/GeneratePanel">GeneratePanel repository</a> for updates on its release date. In the meantime, if you need a client area solution, the archived version of GenerateArea is available for use.
+## Introducing GeneratePanel
+
+We are pleased to introduce **GeneratePanel** as the successor to GenerateArea. However, please note that GeneratePanel has not been officially released yet. It is currently in active development by the dedicated team at [GenerateApps](https://github.com/GenerateApps/GeneratePanel), and we are working diligently to make it the best client area solution possible.
+
+## What Can You Expect from GeneratePanel?
+
+While GeneratePanel may not be available for download at this time, it promises to bring several enhancements and improved functionality over GenerateArea. These upgrades will ensure a better experience and long-term support for our users. We are excited to share these developments with you once GeneratePanel is ready for release.
+
+## Keeping You Informed
+
+We understand your anticipation for GeneratePanel, and we genuinely appreciate your patience. To stay updated on its release date and progress, we encourage you to keep an eye on the official [GeneratePanel repository](https://github.com/GenerateApps/GeneratePanel). As soon as it becomes available, you will be among the first to know.
 
 <br>
 <hr>
