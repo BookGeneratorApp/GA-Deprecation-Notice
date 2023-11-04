@@ -8,7 +8,7 @@ GenerateArea, which has been a client area solution for specific functions, has 
 
 ## So what can I use now?
 
-Soon enough, we will be pleased to introduce **xBilling** as the successor to GenerateArea. GeneratePanel is currently in active development by the dedicated team at [GenerateApps](https://github.com/GenerateApps/), who is working diligently to make it the best client area solution possible.
+Soon enough, we will be pleased to introduce **xBilling** as the successor to GenerateArea. xBilling is currently in active development by the dedicated team at [GenerateApps](https://github.com/GenerateApps/), who is working diligently to make it the best client area solution possible.
 Please note it has not been officially released yet, so we encourage you to look for alternative solutions and wait in the meantime.
 
 ## What can you expect from xBilling?
